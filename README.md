@@ -1,7 +1,7 @@
 
 # Quantum Reliability Model for k-out-of-n Systems
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/1090402778.svg)](https://doi.org/10.5281/zenodo.17538700)
 
 A quantum circuit implementation for computing k-out-of-n system reliability using Qiskit. This code models systems where at least k out of n components must be operational for the system to function.
 
@@ -126,7 +126,7 @@ If you use this software in your research, please cite it using the information 
   author = {Abhinav Krishnan T K},
   title = {Quantum Reliability Model for k-out-of-n Systems},
   year = {2025},
-  doi = {10.5281/zenodo.XXXXXXX},
+  doi = {https://doi.org/10.5281/zenodo.17538700},
   url = {https://github.com/your-github-username/quantum-reliability-model}
 }
 ```
@@ -146,3 +146,4 @@ For questions or feedback, please open an issue on GitHub.
 ## Acknowledgments
 
 Built using [Qiskit](https://qiskit.org/), the open-source quantum computing framework.
+
