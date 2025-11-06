@@ -4,6 +4,7 @@ authors:
   - name: "Abhinav Krishnan T K"
 title: "Quantum Reliability Model for k-out-of-n Systems"
 version: 1.0.0 # 
-doi: 10.5281/zenodo.XXXXXXX # 
-date-released: 2025-XX-XX 
-repository-code: "https://github.com/your-github-username/quantum-reliability-model" # 
+doi: 10.5281/zenodo.17538701
+date-released: 2025-06-11
+
+repository-code: "https://github.com/A-K-T-K/k-out-of-n-reliability_qiskit" # 
